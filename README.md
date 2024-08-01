@@ -44,7 +44,7 @@ Meet online to discuss and plan how to divide the development tasks based on the
 
 ## Step 6
 
-Setup a GitHub Page to automatically publish the project to the web.
+Setup a [GitHub Page](https://docs.github.com/en/pages/quickstart) to automatically publish your developing project to the web to help you review/test your code.
 
 ## Suggestions
 
