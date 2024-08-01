@@ -42,11 +42,19 @@ Meet online to discuss and plan how to divide the development tasks based on the
 4. create Accounts and Spendings components
 5. and so on
 
+## Step 6
+
+Setup a GitHub Page to automatically publish the project to the web.
+
 ## Suggestions
 
-- better to make a several small "good" updates every day that you work on the code then wait a few days until you've "completely" finished the feature you're working on.
+- it's usually better to make several small "good" updates, eg. after each sub-task is completed,than wait until a complex task is completely finished before uploading to the shared GitHub repo.
+- it's important to continually communicate with your partner(s) to let them know what you're working on and how your development is updating. A quick message in a shared Discord "Group DM" at the start and end of your planned 2-3hr coding time-block, to state what you'll be working on and what progress you made, would go a long way to keeping everyone up-to-date.
+- ask for help if you get stuck on a project task or issue... often just chatting about it will help you reformulate the problem enough to find a working solution.
+- ask your partner(s) to review your code... it's much easier to make small code fixes early in the project than have to do large rewrites later on.
+- have fun and keep in mind the group project is primarily for learning how to work with others on a group project using a shared GitHub repository.
 
-==================
+---
 
 ### Scrimba
 
