@@ -42,6 +42,10 @@ Meet online to discuss and plan how to divide the development tasks based on the
 4. create Accounts and Spendings components
 5. and so on
 
+If you decide to use **GitHub Issues** to plan and track who is working on each task, and you are unfamilar with _GitHub Issues_, you can review this scrim lesson on how to [Make an Issue in GitHub](https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~0lg)
+
+NOTE: while you can also create a separate "dev" branch for an issue (and then go through the process of merging it into the Main Branch), I suggest you first try working with _ONLY_ the Main Branch. By that I mean group members will upload ("merge") their working code changes directly to the Main Branch. Other group members will then sync those changes into their local repo and check if/how the changes affect their development work.
+
 ## Step 6
 
 Setup a [GitHub Page](https://docs.github.com/en/pages/quickstart) to automatically publish your developing project to the web to help you review/test your code.
