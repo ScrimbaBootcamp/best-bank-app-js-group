@@ -48,7 +48,7 @@ Setup a [GitHub Page](https://docs.github.com/en/pages/quickstart) to automatica
 
 ## Step 7
 
-For your group project review, you can either submit it the usual way or [Request a Call](https://different-marmoset-f7b.notion.site/Scrimba-Bootcamp-33dfd67a626f4c3bbc1e865ac609e62b) with a Scrimba Bootcamp reviewer and request a 1-1 session instead of a scrim recording so group members can ask questions.
+For your group project review, you can either submit it the usual way or [Request a Call](https://different-marmoset-f7b.notion.site/Scrimba-Bootcamp-33dfd67a626f4c3bbc1e865ac609e62b) with a Scrimba Bootcamp reviewer so group members can ask questions and get specific feedback.
 
 ## Suggestions
 
