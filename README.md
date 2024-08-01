@@ -46,6 +46,10 @@ Meet online to discuss and plan how to divide the development tasks based on the
 
 Setup a [GitHub Page](https://docs.github.com/en/pages/quickstart) to automatically publish your developing project to the web to help you review/test your code.
 
+## Step 7
+
+For your group project review, you can either submit it the usual way or [Request a Call](https://different-marmoset-f7b.notion.site/Scrimba-Bootcamp-33dfd67a626f4c3bbc1e865ac609e62b) with a Scrimba Bootcamp reviewer and request a 1-1 session instead of a scrim recording so group members can ask questions.
+
 ## Suggestions
 
 - it's usually better to make several small "good" updates, eg. after each sub-task is completed,than wait until a complex task is completely finished before uploading to the shared GitHub repo.
