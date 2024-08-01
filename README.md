@@ -22,15 +22,29 @@ Note: the **ScrimbaBootcamp repo** was set up with _Vite_. If you're unfamilar w
 
 ## Step 3
 
-Using **GitHub Desktop**, set up a local repo.
+Each person will then clone the group's GitHub repo to their computer to set up a local repository that can be opened with VScode and be used for storing local commits (changes). Then, from time-to-time, you will sync your "good" changes to the group's GitHub repo.
 
-You can initialize your local repository by running the "npm install" command in a Terminal within your VScode app. You may be asked to install some required/suggested updates.
-
-Thereafter you will run "npm run dev" from the Terminal command line in VScode to start the project's development environment. For me, the browser runs on [localhost:5173](http://localhost:5173/)
+I like using the **GitHub Desktop app** (instead of the command line) to create the local repo and thereafter check for changes made by others to the GitHub repo. I can then use app's "sync" option to download changes made by others.
 
 ## Step 4
 
-Meet online to discuss and plan how to divide the development tasks.
+Initialize your local repository by running the "npm install" command in a Bash Terminal within your VScode app. You may be asked to install some required or suggested updates.
+
+Thereafter you can run "npm run dev" from the same Bash Terminal (in VScode) to start your project's development environment. For me, the development browser runs on [localhost:5173](http://localhost:5173/).
+
+## Step 5
+
+Meet online to discuss and plan how to divide the development tasks based on the [project description](https://v2.scrimba.com/s03f3jq). For example, plan for and decide who will...
+
+1. create the HTML code with text content separated by Semantic elements.
+2. create CSS general styling and content styling to match the UI design.
+3. create Pay/Transfer buttons that activate overlay modals
+4. create Accounts and Spendings components
+5. and so on
+
+## Suggestions
+
+- better to make a several small "good" updates every day that you work on the code then wait a few days until you've "completely" finished the feature you're working on.
 
 ==================
 
